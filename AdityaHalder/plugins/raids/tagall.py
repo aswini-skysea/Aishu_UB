@@ -1,4 +1,4 @@
-
+from ... import *
 from asyncio import sleep
 
 from pyrogram import Client, filters
