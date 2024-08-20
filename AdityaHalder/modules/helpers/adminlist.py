@@ -1,7 +1,4 @@
-
-
-
-
+from ... import *
 import html
 
 from pyrogram import Client, enums, filters
