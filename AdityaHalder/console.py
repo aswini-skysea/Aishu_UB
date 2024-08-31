@@ -40,7 +40,7 @@ if os.path.exists("Internal"):
 API_ID = int(getenv("API_ID", "26582881"))
 API_HASH = getenv("API_HASH", "eec3eb9a652b23ab62df08a7885b2793")
 BOT_TOKEN = getenv("BOT_TOKEN", "7103911386:AAEvyDGm43vQ003kKDRkedTV4-AldvLfXjk")
-STRING_SESSION = getenv("STRING_SESSION", "BQGVn2EAhYa8xwRGpGZ_6R1sWvr_P4mIlDFx8dQ24fFQHAihKxag2NGt2cqNQfibVcpvqjeo5VQ7hmXUTSoiRyimJNyEyBwKGItXDsRf5I33xUQaOpHYxMcfwxpl_BXdPNzxKG0-FGxVHdcq7hiG3hx9bcO4ieTfPxyJ9LGwf5s9AULpfClzAKfYrpMAbZSux9ZQyF0F5rmnoc9xqAXPlDwgFveLQUubPLK7UmD6jc3aolUuNGbix8d8ZW8aNEHkAQeZquskOUU4hoR6kEOHmCRRDRb9_zl4iNz4ueyCiA_vI611EkApvikq0k8qTE7SfSxzsXp5615J-xDPuFww2GRNWIH0IgAAAAGkzbnBAA")
+STRING_SESSION = getenv("STRING_SESSION", "BQGVn2EAqeM_oADAWy_g9pv49gPC71Y0nI3o9FMpYR58yJfpdKNH7lrXQwJbJE6MmCIMm0p6WRZwTEkrX8sf0Xer-xnfkQZ5ELFVsA1TtbG-wp6Cwkl86VSPTyzzfMwP3NhOjtppZD3eQmLE0LrN6Df3rv-0QnEvogrSBJuVmgZzL9SNuLmmf3AhqE4ae7JAzvjT2EH-DuQldxHetFIYnq18ouRqYmK60Bk0LYOXM76UatSjHiW4diqKrtqQ9onrqWNDTX5VfBK67t9iUo9wbu5BboDHhP14K4kqyjLtajlZYwOO9DD6qkgQ4zfHn_4SSr03YqgWAt_L4bpJJPYBmejfuxl4uwAAAAGkzbnBAA")
 MONGO_DB_URL = getenv("MONGO_DB_URL", "mongodb+srv://zewdatabase:ijoXgdmQ0NCyg9DO@zewgame.urb3i.mongodb.net/ontap?retryWrites=true&w=majority")
 LOG_GROUP_ID = int(getenv("LOG_GROUP_ID", "-1002063555777"))
 
